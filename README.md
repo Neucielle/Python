@@ -1,4 +1,4 @@
-# Anotações Aula Python Completa
+# 📑Anotações Aula Python
 
 Este repositório contém anotações de aulas de Python, as anotações foram feitas utilizando a IDEs Jupyter (VsCode).
 
@@ -10,12 +10,6 @@ Este repositório contém anotações de aulas de Python, as anotações foram f
 
 
 ## Lógica de Programação
-
-- **Errar (bug) é normal, faz parte do processo.**
-- Não fique frustrado com erros, ache o erro e resolva.
-- Você não precisa sair decorando código.
-- Tente se divertir programando, você aprende mais.
-- Procurar as coisas por conta própria e testar vai te ajudar MUITO.
 
 
 ### Operações Matemáticas
