@@ -1,4 +1,4 @@
-# Anotações Aula Python Completa
+# 📑Anotações Aula Python
 
 Este repositório contém anotações de aulas de Python, as anotações foram feitas utilizando a IDEs Jupyter (VsCode).
 
